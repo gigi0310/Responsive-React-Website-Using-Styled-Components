@@ -133,7 +133,7 @@ const Icon = styled.img`
 const Text = styled.span`
   font-size: 20px;
   margin-right: 15px;
-  @media only screen and (max-width: 480px) {
+  @media only screen and (max-width: 480px){
     font-size: 14px;
   }
 `;
